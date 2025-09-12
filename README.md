@@ -10,7 +10,8 @@ AI分野でのキャリアを目指して、Pythonを中心に機械学習・GUI
 - その他: 機械学習、深層学習、GUI開発、セキュリティ（Adversarial Attack）
 
 ## 主なプロジェクト
-### [non_target_boundary_attack_GUI](https://github.com/hang07020/non_target_boundary_attack解できるよう設計。
+### [非ターゲット境界攻撃（non-target boundary attack）](https://github.com/hang07020/non_target_boundary_attack)をGUIで可視化するツールです。PythonとTkinterを使用しており、攻撃の挙動を直感的に理解できるよう設計されています。
+
 
 ## 目標
 AI技術を活用した実践的なプロジェクトを通じて、企業で即戦力となるスキルを身につけることを目指しています。
