@@ -5,12 +5,12 @@ AI分野でのキャリアを目指して、Pythonを中心に機械学習・GUI
 
 ## スキルセット
 - プログラミング言語: Python, JavaScript
-- フレームワーク・ライブラリ: PyTorch, TensorFlow, scikit-learn, Tkinter, Flask
-- ツール: Git, GitHub, VSCode, Jupyter Notebook
-- その他: 機械学習、深層学習、GUI開発、セキュリティ（Adversarial Attack）
+- フレームワーク・ライブラリ: PyTorch, TensorFlow, scikit-learn, Tkinter, Flask, streamlit
+- ツール: Git, GitHub, VSCode
+- その他: 機械学習、深層学習、セキュリティ
 
 ## 主なプロジェクト
-### [non_target_boundary_attack_GUI](https://github.com/hang07020/non_target_boundary_attack_GUI)は非ターゲット境界攻撃（non-target boundary attack）をGUIで可視化するツールです。PythonとTkinterを使用しており、攻撃の挙動を直感的に理解できるよう設計されています。
+### [non_target_boundary_attack_GUI](https://github.com/hang07020/non_target_boundary_attack_GUI)は非ターゲット境界攻撃（non-target boundary attack）をGUIで可視化するツールです。Streamlitを使用しており、攻撃の挙動を直感的に理解できるよう設計されています。
 
 
 ## 目標
