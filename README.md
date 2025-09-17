@@ -10,7 +10,11 @@ AI分野でのキャリアを目指して、Pythonを中心に機械学習・GUI
 - その他: 機械学習、深層学習、セキュリティ
 
 ## 主なプロジェクト
-### [non_target_boundary_attack_GUI](https://github.com/hang07020/non_target_boundary_attack_GUI)は非ターゲット境界攻撃（non-target boundary attack）をGUIで可視化するツールです。Streamlitを使用しており、攻撃の挙動を直感的に理解できるよう設計されています。
+### [non_target_boundary_attack_GUI](https://github.com/hang07020/non_target_boundary_attack_GUI)  
+非ターゲット境界攻撃（non-target boundary attack）をGUIで可視化するツールです。Streamlitを使用しており、攻撃の挙動を直感的に理解できるよう設計されています。  
+
+### [non_target_boundary_attack_pytorch](https://github.com/hang07020/non_target_boundary_attack_pytorch)  
+Keras/TensorFlow版を**PyTorch**に移植した非標的型境界攻撃の可視化ツールです。StreamlitベースのGUIを備え、正規化方法の違いによる攻撃効率の変化などを実験的に確認できます。  
 
 
 ## 目標
