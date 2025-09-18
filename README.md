@@ -7,7 +7,7 @@ AI分野でのキャリアを目指して、Pythonを中心に機械学習・GUI
 - プログラミング言語: Python, JavaScript
 - フレームワーク・ライブラリ: PyTorch, TensorFlow, scikit-learn, Tkinter, Flask, streamlit
 - ツール: Git, GitHub, VSCode
-- その他: 機械学習、深層学習、セキュリティ
+- その他: 機械学習、深層学習、情報セキュリティ
 
 ## 主なプロジェクト
 ### [non_target_boundary_attack_GUI](https://github.com/hang07020/non_target_boundary_attack_GUI)  
