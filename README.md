@@ -2,11 +2,13 @@
 
 ## 自己紹介
 AI分野でのキャリアを目指して、Pythonを中心に機械学習・GUI開発・セキュリティ技術の習得に取り組んでいます。現在は、AIモデルに対する攻撃手法の研究と可視化ツールの開発を行っています。
+現職では、EC2をはじめとしたAWSサービスを活用し、クラウド基盤の運用や検証環境の構築を担当しています。
 
 ## スキルセット
-- プログラミング言語: Python, JavaScript
+- プログラミング言語: Python, Java
 - フレームワーク・ライブラリ: PyTorch, TensorFlow, scikit-learn, Tkinter, Flask, streamlit
 - ツール: Git, GitHub, VSCode
+- AWS: EC2, VPC, IAM, S3, SQS, CloudWatch
 - その他: 機械学習、深層学習、情報セキュリティ
 
 ## 主なプロジェクト
