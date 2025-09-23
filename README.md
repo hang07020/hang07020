@@ -8,7 +8,7 @@ AI分野でのキャリアを目指して、Pythonを中心に機械学習・GUI
 ## スキルセット
 - プログラミング言語: Python, Java
 - フレームワーク・ライブラリ: PyTorch, TensorFlow（Keras)
-- 画像処理・数値処理: Pillow、torchvision、NumPy
+- 画像処理・数値処理: Pillow、torchvision、NumPy、Matplotlib
 - GUI/WEB UI: Tkinter, streamlit
 - ツール: Git, GitHub, VSCode
 - AWS: EC2, VPC, IAM, S3, SQS, CloudWatch
